@@ -1,7 +1,7 @@
 # Welcome to My Learning Journey!
 
 ## About Me
-Hello! I'm Atherizz, an undergraduate student currently in my 2nd semester. I have a keen interest in becoming a backend developer and I'm on an exciting journey to learn various technologies and improve my skills.
+Hello! I'm Savero, an undergraduate student currently in my 2nd semester. I have a keen interest in becoming a backend developer and I'm on an exciting journey to learn various technologies and improve my skills.
 
 ## 🌱 What I'm Learning
 - **Laravel**: I'm diving into the world of web development with Laravel, a powerful PHP framework.
