@@ -6,6 +6,7 @@ Hello! I'm Savero, an undergraduate student currently in my 2nd semester. I have
 ## 🌱 What I'm Learning
 - **Laravel**: I'm diving into the world of web development with Laravel, a powerful PHP framework.
 - **Python for Machine Learning**: I'm also exploring the fascinating field of machine learning using Python.
+- **Golang**: I'm learning Golang to build efficient and scalable applications.
 
 ## 👀 Future Learning Plans
 - **Node.js**: I plan to expand my backend development skills by learning Node.js, a JavaScript runtime that's widely used for building scalable network applications.
