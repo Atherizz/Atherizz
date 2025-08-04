@@ -29,10 +29,6 @@ Hello! I'm Savero, an undergraduate student currently in my 2nd semester. I have
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
-## 👀 Future Learning Plans
-- **Node.js**: I plan to expand my backend development skills by learning Node.js, a JavaScript runtime that's widely used for building scalable network applications.
-
 ## Projects
 Stay tuned for my upcoming projects as I apply what I've learned and build practical applications!
 
