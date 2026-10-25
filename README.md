@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, i'm Savero 👋
+# Hey, i'm Savero 👋
 
 Backend engineer. I build APIs and distributed systems.
 Currently studying Informatics at Politeknik Negeri Malang.
